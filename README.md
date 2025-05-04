@@ -95,4 +95,3 @@ If you have any suggestions, ideas, or improvements, feel free to open an issue 
 
 ---
 
-Would you like me to generate a markdown file (`README.md`) from this?
