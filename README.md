@@ -37,7 +37,7 @@ A responsive web app that displays real-time weather information for any city us
 ```
 📁 project-root/
 │
-├── index_02.html       # Main HTML structure
+├── index.html       # Main HTML structure
 ├── style.css           # CSS styling and layout
 └── java_script.js      # JavaScript logic and API integration
 ```
